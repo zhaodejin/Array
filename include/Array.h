@@ -7,7 +7,10 @@
 
 
 class Array {
-
+public:
+    Array();
+    ~Array();
+    void testPrint();
 };
 
 
